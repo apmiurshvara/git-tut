@@ -2,3 +2,4 @@ this is a new line
 another new line
 change done in master
 change done in branch1
+line added in branch2
